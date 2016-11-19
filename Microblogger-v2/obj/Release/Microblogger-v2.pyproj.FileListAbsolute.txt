@@ -1,0 +1,9 @@
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\bin\Microsoft.PythonTools.WebRole.dll
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\bin\AzureSetup.cfg
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\bin\Microsoft.PythonTools.AzureSetup.exe
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\bin\wfastcgi.py
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\obj\Release\deployment-updated-orig-prefix.txt
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\ptvs_virtualenv_proxy.py
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\obj\Release\web.config
+E:\Projects\C#\MicroBlogger-VS\Microblogger-v2\obj\Release\web.debug.config
